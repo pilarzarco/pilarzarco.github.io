@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "pilar.JPG"
   name             : "Pilar Zarco Villegas"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her"  
   bio              : "Machine Learning and Data Science"
   location         : "United Kingdom"
   employer         : "The University of Edinburgh"
