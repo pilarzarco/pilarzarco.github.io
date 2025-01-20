@@ -1,6 +1,6 @@
 ---
 title: "Using Machine Learning to detect growing supermassive black holes."
-excerpt: "Assessing the effectiveness of t-SNE in identifying and classifying Active Galactic Nuclei <br/><img src='/images/tsne_picture.png'>"
+excerpt: "Assessing the effectiveness of t-SNE in identifying and classifying Active Galactic Nuclei <br/><img src='/images/tsne_picture.png' width="200>"
 collection: portfolio
 ---
 
